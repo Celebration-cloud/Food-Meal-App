@@ -1,0 +1,1 @@
+const filtration = ["glutenFree", "lactoseFree", "vegan"];

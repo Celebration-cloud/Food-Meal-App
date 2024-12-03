@@ -1,0 +1,4 @@
+const filtration = [
+    "glutenFree",
+    
+]
